@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2408501.jpg);
+}
+
+.cont{
+    display: grid;
+    border: 2px solid gray;
+    border-radius: 5%;
+    width: 400px;
+    height: 120px;
+    color: black;
+    background-image: url(https://i.pinimg.com/originals/b1/43/42/b143422b298ee9310dea29ff97084f13.jpg);
+}
+
+p, h1{
+    font-family: "Cambria", serif;
+    font-style: normal;
+    color: white;
+}
